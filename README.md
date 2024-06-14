@@ -9,22 +9,24 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 **1) IoT GPS Tracker:**
 
-* [repo1]()
-* [repo2]()
+* repo1: [IoT GPS Tracker: Front End Web](https://github.com/ttpu/IoTintern2024_GPS_tracking_FrontEnd)
+* repo2: [IoT GPS Tracker: ESP32 PlatformIO](https://github.com/ttpu/IoTintern2024_GPS_tracking_PlatformIO)
+
   * _@authors: I) [AbuBakrSobirov](https://github.com/Yunusiy);_
 
 ----------------------------------------------
 **2) Robot-Hand controlled by Leap Motion:**
 
-* [repo1]()
-* [repo2]()
+* repo1: [HandTracking Robot: LeapMotion](https://github.com/ttpu/IoTintern2024_HandRobot_Leap)
+* repo2: [HandTracking Robot: ESP32 with Servos](https://github.com/ttpu/IoTintern2024_HandRobot_ESP32)
+
   * _@authors: I) [FozilaIsayeva](https://github.com/fozilais); II) [KumushoyKhudoykulova](https://github.com/KhudaykulovaK); III) [MukhlisaMirtajiboyeva](https://github.com/MukhlisaMirajiboyeva);_
 
 ----------------------------------------------
 **3) Smart Security System (SafePass of Door entrance access):**
 
-* [repo1]()
-* [repo2]()
+* repo1: [Smart Security System: SafePass Door Entrance](https://github.com/ttpu/IoTintern2024_SmartSecuritySystem_DoorEntrance)
+
   * _@authors: I) [NurslultonMalikov](https://github.com/myGithubakount); II) [OtabekDavronbekov](http://github.com/OtabekDavron);_
 
 ----------------------------------------------
@@ -32,6 +34,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [MukhammaddiyorKhomidov](https://github.com/WieBeer); II) [ValisherOtakhonov](https://github.com/atakhanov);_
 
 ----------------------------------------------
@@ -39,6 +42,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [SukhrobUrushev](https://github.com/sukhrob10xengineer);_
 
 ----------------------------------------------
@@ -46,6 +50,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [NursultonSobirov](https://github.com/Nursulton46);_
 
 ----------------------------------------------
@@ -53,6 +58,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [OtabekGofforov](https://github.com/OtabekGofforov);_
 
 ----------------------------------------------
@@ -60,6 +66,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [ZokirjonKodirov](https://github.com/zokirjonkodirov); II) [MukhammadyusufUmarkhonov](https://github.com/Umarkhonov);_
 
 ----------------------------------------------
@@ -67,6 +74,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [AkbarFatkhullaev](https://github.com/AkbarFat);_
 
 ----------------------------------------------
@@ -74,6 +82,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [MironshohMirjonov](https://github.com/MironshohM);_
 
 ----------------------------------------------
@@ -81,6 +90,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [DiyorMusakhanov](https://github.com/DMusakhanov);_
 
 ----------------------------------------------
@@ -88,6 +98,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [MirazimZakirov](https://github.com/Mirmirus);_
 
 ----------------------------------------------
@@ -95,6 +106,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [QobiljonUsmonov](https://github.com/UsmQobiljon);_
 
 ----------------------------------------------
@@ -102,13 +114,14 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 * [repo1]()
 * [repo2]()
+
   * _@authors: I) [AvazbekAbdurafikov](https://github.com/AvazbekAbdurafikov);_
 
 ----------------------------------------------
 **15) Chess play with UR5e cobot (collaborative robot):**
 
-* [repo1]()
-* [repo2]()
+* repo1: [UR5E_ChessPlayerRobot](https://github.com/ttpu/IoTintern2024_UR5E_ChessPlayerRobot)
+
   * _@authors: I) [IllarionYugay](https://github.com/i-vis);_
 
 ----------------------------------------------------------------------------------------------------------
