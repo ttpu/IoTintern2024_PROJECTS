@@ -9,39 +9,37 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 **1) IoT GPS Tracker:**
 
-* repo1: [IoT GPS Tracker: Front End Web](https://github.com/ttpu/IoTintern2024_GPS_tracking_FrontEnd)
-* repo2: [IoT GPS Tracker: ESP32 PlatformIO](https://github.com/ttpu/IoTintern2024_GPS_tracking_PlatformIO)
+* repo1: [IoT GPS Tracker - Front End Web](https://github.com/ttpu/IoTintern2024_GPS_tracking_FrontEnd)
+* repo2: [IoT GPS Tracker - ESP32 PlatformIO](https://github.com/ttpu/IoTintern2024_GPS_tracking_PlatformIO)
 
   * _@authors: I) [AbuBakrSobirov](https://github.com/Yunusiy);_
 
 ----------------------------------------------
 **2) Robot-Hand controlled by Leap Motion:**
 
-* repo1: [HandTracking Robot: LeapMotion](https://github.com/ttpu/IoTintern2024_HandRobot_Leap)
-* repo2: [HandTracking Robot: ESP32 with Servos](https://github.com/ttpu/IoTintern2024_HandRobot_ESP32)
+* repo1: [HandTracking Robot - LeapMotion](https://github.com/ttpu/IoTintern2024_HandRobot_Leap)
+* repo2: [HandTracking Robot - ESP32 with Servos](https://github.com/ttpu/IoTintern2024_HandRobot_ESP32)
 
   * _@authors: I) [FozilaIsayeva](https://github.com/fozilais); II) [KumushoyKhudoykulova](https://github.com/KhudaykulovaK); III) [MukhlisaMirtajiboyeva](https://github.com/MukhlisaMirajiboyeva);_
 
 ----------------------------------------------
 **3) Smart Security System (SafePass of Door entrance access):**
 
-* repo1: [Smart Security System: SafePass Door Entrance](https://github.com/ttpu/IoTintern2024_SmartSecuritySystem_DoorEntrance)
+* repo1: [Smart Security System - SafePass Door Entrance](https://github.com/ttpu/IoTintern2024_SmartSecuritySystem_DoorEntrance)
 
   * _@authors: I) [NurslultonMalikov](https://github.com/myGithubakount); II) [OtabekDavronbekov](http://github.com/OtabekDavron);_
 
 ----------------------------------------------
 **4) Smart Lights with Alexa (Echo Dot) - First Project:**
 
-* [repo1]()
-* [repo2]()
+* repo1: [Smart Light Controlled by Alexa - First Project](https://github.com/ttpu/IoTintern2024_SmartLight_Alexa_proj1)
 
   * _@authors: I) [MukhammaddiyorKhomidov](https://github.com/WieBeer); II) [ValisherOtakhonov](https://github.com/atakhanov);_
 
 ----------------------------------------------
 **5) Alexa Light Controller with ESP32 (with Echo Dot) - Second Project:**
 
-* [repo1]()
-* [repo2]()
+* repo1: [Smart Light Controlled by Alexa - Second Project](https://github.com/ttpu/IoTintern2024_SmartLight_Alexa_proj2)
 
   * _@authors: I) [SukhrobUrushev](https://github.com/sukhrob10xengineer);_
 
