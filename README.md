@@ -4,8 +4,10 @@ This repository keeps the list of projects that are created during "IoT Internsh
 It is a summary of projects and their corresponding repositories, which are related to the course of "**IoT Internship 2024**".
 
 ----------------------------------------------------------------------------------------------------------
-================================================================================
+========================================================
 ## List of Final Capstone Projects
+
+** Youtube Playlist: ** [Demo Videos of Projects - IoT Internship 2024](https://youtube.com/playlist?list=PLfZEWICCEvhiUH3opOEUZHImOvAZeMI-n&si=s2XzRsTFLtT4ABgL)
 
 **1) IoT GPS Tracker:**
 
@@ -120,4 +122,4 @@ It is a summary of projects and their corresponding repositories, which are rela
   * _@authors: I) [IllarionYugay](https://github.com/i-vis);_
 
 ----------------------------------------------------------------------------------------------------------
-================================================================================
+========================================================
