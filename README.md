@@ -9,6 +9,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 
 ** Youtube Playlist: ** [Demo Videos of Projects - IoT Internship 2024](https://youtube.com/playlist?list=PLfZEWICCEvhiUH3opOEUZHImOvAZeMI-n&si=s2XzRsTFLtT4ABgL)
 
+----------------------------------------------
 **1) IoT GPS Tracker:**
 
 * repo1: [IoT GPS Tracker - Front End Web](https://github.com/ttpu/IoTintern2024_GPS_tracking_FrontEnd)
