@@ -7,7 +7,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 ========================================================
 ## List of Final Capstone Projects
 
-** Youtube Playlist: ** [Demo Videos of Projects - IoT Internship 2024](https://youtube.com/playlist?list=PLfZEWICCEvhiUH3opOEUZHImOvAZeMI-n&si=s2XzRsTFLtT4ABgL)
+**Youtube Playlist:** [Demo Videos of Projects - IoT Internship 2024](https://youtube.com/playlist?list=PLfZEWICCEvhiUH3opOEUZHImOvAZeMI-n&si=s2XzRsTFLtT4ABgL)
 
 ----------------------------------------------
 **1) IoT GPS Tracker:**
