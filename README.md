@@ -125,7 +125,7 @@ It is a summary of projects and their corresponding repositories, which are rela
 ----------------------------------------------
 **16) Smart Greenhouse control:**
 * video: [youtube link](https://youtu.be/QViV5jBp858)
-* repo1: [Smart Greenhouse](https://github.com/ttpu/smart_greenhouse)
+* repo1: [Smart Greenhouse](https://github.com/ttpu/IoTintern2024_smart_greenhouse_PlatformIO)
 
   * _@authors: I) [MirIsxoq](https://github.com/mirisxoq);_
 
