@@ -122,5 +122,12 @@ It is a summary of projects and their corresponding repositories, which are rela
 
   * _@authors: I) [IllarionYugay](https://github.com/i-vis);_
 
+----------------------------------------------
+**16) Smart Greenhouse control:**
+* video: [youtube link](https://youtu.be/QViV5jBp858)
+* repo1: [Smart Greenhouse](https://github.com/ttpu/smart_greenhouse)
+
+  * _@authors: I) [MirIsxoq](https://github.com/mirisxoq);_
+
 ----------------------------------------------------------------------------------------------------------
 ========================================================
